@@ -9,6 +9,8 @@
   .logo-title {
     font-size: 30px;
   }
+
+  /* banner  */
   .banner-container {
     flex-direction: column;
   }
@@ -23,5 +25,9 @@
   }
   .banner-sub-titile {
     text-align: center;
+  }
+  /* products  */
+  .products-container {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
