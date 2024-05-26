@@ -30,4 +30,8 @@
   .products-container {
     grid-template-columns: repeat(1, 1fr);
   }
+  .footer {
+    flex-direction: column;
+    padding: 15px;
+  }
 }
