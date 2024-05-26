@@ -1,0 +1,27 @@
+@media screen and (max-width: 576px) {
+  .header-container {
+    flex-direction: column;
+    padding: 15px;
+  }
+  .list-items {
+    flex-direction: column;
+  }
+  .logo-title {
+    font-size: 30px;
+  }
+  .banner-container {
+    flex-direction: column;
+  }
+  .banner-text-container {
+    width: 100%;
+  }
+  .banner-title {
+    font-size: 50px;
+  }
+  .banner-image-container {
+    width: 100%;
+  }
+  .banner-sub-titile {
+    text-align: center;
+  }
+}
