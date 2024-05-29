@@ -1,4 +1,6 @@
+/* responsive  */
 @media screen and (max-width: 576px) {
+  /* header  */
   .header-container {
     flex-direction: column;
     padding: 15px;
@@ -9,7 +11,6 @@
   .logo-title {
     font-size: 30px;
   }
-
   /* banner  */
   .banner-container {
     flex-direction: column;
