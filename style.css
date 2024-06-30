@@ -144,7 +144,6 @@ body {
 }
 .products-container {
   display: grid;
-  grid-template-columns: ;
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
 }
